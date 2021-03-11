@@ -1,0 +1,23 @@
+{
+  "name": "deploy-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrp90/deploy-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wrp90/deploy-test/issues"
+  },
+  "homepage": "https://github.com/wrp90/deploy-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
